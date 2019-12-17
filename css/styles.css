@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+input {
+  color: black;
+}
+
+#robot {
+  display: none;
+  height: 500px;
+  width: 670px;
+}
